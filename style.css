@@ -1,0 +1,13 @@
+.description {
+    color: rgb(127, 233, 127);
+    font-family: "century gothic", Calibri;
+    font-weight: 250;
+    text-align: justify;
+}
+
+div .list {
+    color: brown;
+    text-decoration: dotted
+    ;
+
+}
